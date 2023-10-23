@@ -1,3 +1,3 @@
 # Workout Routine Website
 
-https://goodkidali.github.io/WorkoutRoutineWebsite/
+https://goodkidali.github.io/FirstHTMLWebsite/
